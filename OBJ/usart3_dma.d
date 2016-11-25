@@ -1,0 +1,16 @@
+..\OBJ\usart3_dma.o: ..\SYSTEM\usart\usart3_dma.c
+..\OBJ\usart3_dma.o: ..\SYSTEM\usart\usart3_dma.h
+..\OBJ\usart3_dma.o: ..\SYSTEM\sys\sys.h
+..\OBJ\usart3_dma.o: ..\USER\stm32f10x.h
+..\OBJ\usart3_dma.o: ..\CORE\core_cm3.h
+..\OBJ\usart3_dma.o: D:\Keil\ARM\RV31\Inc\stdint.h
+..\OBJ\usart3_dma.o: ..\USER\system_stm32f10x.h
+..\OBJ\usart3_dma.o: ..\USER\stm32f10x_conf.h
+..\OBJ\usart3_dma.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\OBJ\usart3_dma.o: ..\USER\stm32f10x.h
+..\OBJ\usart3_dma.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\usart3_dma.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\usart3_dma.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\usart3_dma.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\usart3_dma.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\usart3_dma.o: D:\Keil\ARM\RV31\Inc\string.h

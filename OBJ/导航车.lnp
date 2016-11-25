@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\obj\main.o" "..\obj\stm32f10x_it.o" "..\obj\system_stm32f10x.o" "..\obj\control.o" "..\obj\led.o" "..\obj\encoder.o" "..\obj\motor.o" "..\obj\timer.o" "..\obj\cc2541.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\usart1_dma.o" "..\obj\usart2_dma.o" "..\obj\usart3_dma.o" "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_hd.o" "..\obj\stm32f10x_gpio.o" "..\obj\stm32f10x_rcc.o" "..\obj\stm32f10x_usart.o" "..\obj\misc.o" "..\obj\stm32f10x_tim.o" "..\obj\stm32f10x_dma.o" "..\obj\stm32f10x_exti.o" --strict --scatter "..\OBJ\导航车.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\导航车.map" -o "..\OBJ\导航车.axf"

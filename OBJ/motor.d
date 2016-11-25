@@ -1,0 +1,15 @@
+..\OBJ\motor.o: ..\HARDWARE\MOTOR\motor.c
+..\OBJ\motor.o: ..\HARDWARE\MOTOR\motor.h
+..\OBJ\motor.o: ..\SYSTEM\sys\sys.h
+..\OBJ\motor.o: ..\USER\stm32f10x.h
+..\OBJ\motor.o: ..\CORE\core_cm3.h
+..\OBJ\motor.o: D:\Keil\ARM\RV31\Inc\stdint.h
+..\OBJ\motor.o: ..\USER\system_stm32f10x.h
+..\OBJ\motor.o: ..\USER\stm32f10x_conf.h
+..\OBJ\motor.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\OBJ\motor.o: ..\USER\stm32f10x.h
+..\OBJ\motor.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\motor.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\motor.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\motor.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\motor.o: ..\STM32F10x_FWLib\inc\misc.h
